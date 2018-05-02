@@ -60,3 +60,6 @@ target/
 models/
 image/
 image-preprocessed/
+retrain-data/
+retrain-models/
+cache-retraindata/

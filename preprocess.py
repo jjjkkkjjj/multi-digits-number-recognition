@@ -110,7 +110,7 @@ class PreProcess:
             number_position = []
             tmp = 0
 
-            w_area = (self.width*0.15, self.width*0.7)
+            w_area = (self.width*0.08, self.width*0.6)
             h_area = self.height*0.6
             # loop over the digit area candidates
             for c in cnts:
