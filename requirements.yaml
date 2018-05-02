@@ -1,4 +1,4 @@
-name: py36-keras
+name: number
 channels:
 - menpo
 - conda-forge
@@ -238,5 +238,4 @@ dependencies:
   - tables==3.3.0
   - tensorflow-gpu==1.1.0
   - theano==0.9.0
-prefix: /home/junkado/.pyenv/versions/anaconda3-2.2.0/envs/py36-keras
 
